@@ -12,7 +12,7 @@ Once opening the webpage, a user can see a table at the bottom of the page where
 
 A user can search for UFO sightings using one or a group of filter search options. Below I provided screenshots of how using each filter input relusts in differential search results.
 
-1. Filtering by a Date:
+1. Filtering by a Date (1/1/2010):
 
 
 
