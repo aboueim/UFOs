@@ -6,9 +6,14 @@ In this project, I aimed to build a webpage that allows users to search and filt
 
 ## Results
 
-Once opening the webpage, a user can see a table at the bottom of the page where a large set of UFO sightings are stored based on their date and time of occurence, location, shape and comments written about them (see the screenshot below). On the left side of the table, there are five filtering options are located that allow users to search sightings given their date, city, state, country, and shape.
+Once opening the webpage, a user can see a table at the bottom of the page where a large set of UFO sightings are stored based on their date and time of occurence, location, shape and comments written about them. On the left side of the table, there are five filtering options are located that allow users to search sightings given their date, city, state, country, and shape. Below shows a screenshot of the table and filter options.
 
 ![This is an image](/Table_Filters.png)
+
+A user can search for UFO sightings using one or a group of filter search options. Below I provided screenshots of how using each filter input relusts in differential search results.
+
+1. Filtering by a Date:
+
 
 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
