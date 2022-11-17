@@ -14,8 +14,30 @@ A user can search for UFO sightings using one or a group of filter search option
 
 1. Filtering by a Date (1/1/2010):
 
+![This is an image](/By_Date.png)
+
+2. Filtering by a City (el cajon):
+
+![This is an image](/By_City.png)
+
+3. Filtering by a State (or):
+
+![This is an image](/By_State.png)
+
+4. Filtering by a Country (ca):
+
+![This is an image](/By_Country.png)
+
+5. Filtering by Shape (triangle):
+
+![This is an image](/By_Shape.png)
+
+5. Combine filtering (date: 1/1/2010; city: el cajon, shape: triangle):
+
+![This is an image](/Combined.png)
+
+As can be seen through the screenshots, all filtering options work properly!
 
 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
