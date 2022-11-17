@@ -41,6 +41,11 @@ As can be seen through the screenshots, all filtering options work properly!
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-- A major drawback of the new design is the restriction posed by the filters to search only when the exact text is used. In fact, in case a user is unsure of the correct spelling of words or if the stored data is not in a standard format (for example, abbreviations used for state names), searching the desired value would be difficult.
+### Drawback:
+
+A major drawback of the new design is the restriction posed by the filters to search only when the exact text is used. In fact, in case a user is unsure of the correct spelling of words or if the stored data is not in a standard format (for example, abbreviations used for state names), searching the desired value would be difficult.
+
+### Solutions
+
   1. One solution to this issue would be freeing this restriction and showing results even if the search input is partially represents the intended value.
   2. Another solution would be presenting search results in drop-down lists where users can manually go through closely related results and find the desired one.
